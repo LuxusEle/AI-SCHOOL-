@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+assessly-review/
+append_part*.py
+build_doc.py
